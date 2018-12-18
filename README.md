@@ -1,4 +1,4 @@
-# Tree-structured Kronecker Convolutional Networks for Semantic Segmentation
+# [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf)
 
 
 ## Introduction
