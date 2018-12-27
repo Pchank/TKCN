@@ -96,7 +96,12 @@ DenseASPP |  CVPR2018  | DenseNet |-      | **80.6**   | -
   ## Citation
 If TKCN is useful for your research, please consider citing:
 ```
- 
+@article{wu2018tree,
+  title={Tree-structured Kronecker Convolutional Networks for Semantic Segmentation},
+  author={Wu, Tianyi and Tang, Sheng and Zhang, Rui and Li, Jintao},
+  journal={arXiv preprint arXiv:1812.04945},
+  year={2018}
+} 
 ```
   ## License
 
